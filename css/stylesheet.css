@@ -1,0 +1,9 @@
+﻿@font-face {
+  font-family: 'UrduEmad';
+  src: url("../fonts/UrduEmad.eot");
+  src: url("../fonts/UrduEmad.eot") format("embedded-opentype"), 
+       url("../fonts/UrduEmad.woff") format("woff"), 
+       url("../fonts/UrduEmad.ttf") format("truetype"), 
+       url("../fonts/UrduEmad.svg") format("svg");
+  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
